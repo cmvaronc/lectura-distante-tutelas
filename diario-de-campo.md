@@ -28,7 +28,7 @@ Podría ser en ese orden, p. ej.: "hechos-0001-2010.txt"
 
 ## 06-08-18
 
-###Experimentación con Mallet (Windows)
+### Experimentación con Mallet (Windows)
 
 * En la creación del archivo .mallet es necesario usar el comando stoplist-file stoplists\es.txt para que el programa cargue la lista de palabras vacías en español. De otro modo, tomará una lista por defecto de Java. Comando completo para cargar los archivos con la lista en español:
 
@@ -219,5 +219,7 @@ Overall, a very simple, yet powerful freeware app for combining  multiple text f
 
 Textutil para convertir archivos
 
-Cmabiar la estructura de archivos: primero año
+Cambiar la estructura de archivos: primero año
+
+
 
