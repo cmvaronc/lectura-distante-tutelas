@@ -76,7 +76,7 @@ Modelo de tópicos:
 
 Después de pasar el archivo de composición a una hoja de cálculo, se obtuvo un gráfico de dispersión que muestra el comportamiento por año del tópico más relevante (n.° 5) durante el periodo 2009-2018. 
 
-![_result_prueba_topico_5](C:\mallet\_result_prueba_topico_5.png)
+![_result_prueba_topico_5](lectura-distante-tutelas/imagen-foro-4.PNG)
 
 |         | Tópicos |         |         |         |             |         |         |         |         |         |
 | ------- | ------: | ------: | ------: | ------: | ----------: | ------: | ------: | ------: | ------: | ------: |
