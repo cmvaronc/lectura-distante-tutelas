@@ -64,14 +64,23 @@ Consolidé los datos de la carpeta "hechos" en un solo archivo por año y pedí 
 Modelo de tópicos:
 
 0	0,01973	servicio acción trámite energía extracontractual contrato demanda pretensión orden demora convocada actor interpelada decisión revocarse debe daño prueba existe admitir 
+
 1	0,02014	educación local personal alcaldesa sector colegio cuenta sed gómez les policía actividad localidad pineda manifestó año menor lugar señaló factores 
+
 2	0,08046	cerebral efectuado vial rubio así salud magnetica electroencefalografica realizar fosyga señala paola informó impuesto haber llevó jurisdicción ley esposo finalizar 
+
 3	0,03076	municipal camionetas sor esp codensa obras alumbrado servicio domiciliario siett pitajaya vinculación szv noviembre día domiciliarios públicos digna igualdad administración 
+
 **4	0,37875	salud accionada entidad eps accionante acción derechos encuentra así servicios tutela médico mismo solicitó social fundamentales derecho protección antecedentes seguridad**
+
 5	0,02002	cuenta xilena semanas general comparendos adres corte necesario recursos transporte movilidad camargo pensión cotizadas administradora dos allí ordenados traslado sistema 
+
 6	0,03038	calidad secretaría integridad aras lacosamida lamotrigina vigente cuentas número ludivia universitario claudia riesgo constitucionales presentó cotizante procedencia dra agosto conocimiento 
+
 7	0,08584	accidente contrato desempeñando laboral derechos marzo sumado incapacidad coordinador señor encontraba labor causa justa vital peligro habiendo circunstancias dignamente contar 
+
 8	0,04851	hospital requeridos bolsas señaló autorización distrital tunal obstante medida humanavivir contra fondo será pos eventos cargo ips secretaría improcedencia aquella 
+
 9	0,02091	cafesalud día oficina galindo ordenado dio relacionados física radio video legales tableta guerrero monica negativa preceptuado pasado fundación tampoco varios 
 
 Después de pasar el archivo de composición a una hoja de cálculo, se obtuvo un gráfico de dispersión que muestra el comportamiento por año del tópico más relevante (n.° 5) durante el periodo 2009-2018. 
