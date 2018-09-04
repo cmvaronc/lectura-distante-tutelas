@@ -212,14 +212,13 @@ Overall, a very simple, yet powerful freeware app for combining  multiple text f
 
 ## 22-08-18
 
-### Des questions pour les poser au proffesseur
+### Sesión de trabajo, Diseño de proyectos
 
-* ¿Est-ce qu'il y a une maniére de transformer plusieurs fichiers .rtf á .txt sans mettre la cryptage en danger?
-* ¿Quelle est la meilleur maniére de nommer les fichiers?
+* Trabajamos en la conversión de gran volumen de archivos de texto con textutil, un script disponible de fábrica en los Mac para hacer ese trabajo. Hice posteriormente una prueba con el acervo completo de la Corte Constitucional que nos habí afacilitado Sandy y funcionó.
+* La estructura de almacenamiento de la información debería modificarse: pasar de "componente-año" a "año-carpeta por tutela-archivos separados por componentes".
+* El clasificador único deberá ser el número de radicación del juzgado.
+* Acordamos crear el documento para entregar el 11 de septiembre, en el que se describa de qué manera se está construyendo el corpus.
 
-Textutil para convertir archivos
-
-Cambiar la estructura de archivos: primero año
 
 
 
