@@ -31,5 +31,5 @@ La configuración de una estructura de carpetas para el almacenamiento de los ar
 ![estructura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/estructura-archivos.png)
  
 ## Referencias
-Biber, D. (1993). Representativeness in Corpus Design. Literary and Linguistic Computing, 8(4), 243–257. https://doi.org/10.1093/llc/8.4.243
+Biber, D. (1993). Representativeness in Corpus Design. *Literary and Linguistic Computing, 8*(4), 243–257. https://doi.org/10.1093/llc/8.4.243
 
