@@ -233,6 +233,7 @@ Overall, a very simple, yet powerful freeware app for combining  multiple text f
 
 * Coincidimos en que no es posible trocear los archivos para hacer el modelo de tópicos por componentes.
 * El trabajo abre la posibilidad de pensar en conciliar las necesidades de la Corte con la realidad de la gestión documental en los juzgados. 
+* Siguiente sesión: 2 de octubre, 12:00 m.
 
 
 
