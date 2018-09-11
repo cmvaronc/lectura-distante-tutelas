@@ -38,7 +38,7 @@ Tomada la decisión de no separar los fallos por componentes, se estableció una
  
 La configuración de una estructura de carpetas para el almacenamiento de los archivos, por su parte, tampoco ha estado exenta de discusiones. Se resolvió dividir los archivos en carpetas por año, así:
 
-![estructura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/estructura-archivos.png)
+![estructura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/estructura-archivos-v1.jpg)
 
 ## Notas
 
