@@ -32,11 +32,11 @@ El algoritmo que se empleará para construir el modelo de tópicos (Mallet) exig
 
 #### 2.2.2. Gestión de archivos
 
-Encontrar un elemento que sirviese como clasificador único para nombrar los archivos ha resultado ser una tarea más complicada de lo que se pensó en principio, máxime si se toma en cuenta que cada expediente se dividirá en componentes (que a su turno constituirán archivos individuales). En este sentido, se creyó prudente recurrir a la clasificación dada desde los juzgados a los expedientes, con lo cual se tomarán los siguientes elementos para nombrar los archivos:
+Tomada la decisión de no separar los fallos por componentes, se estableció una nomenclatura para los archivos cuyo clasificador único ha de ser un número consecutivo asignado de forma automática al renombrar los archivos por volumen, así:
 
 ![nomenclatura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/nomenclatura-archivos.png)
  
-La configuración de una estructura de carpetas para el almacenamiento de los archivos, por su parte, tampoco ha estado exenta de discusiones. Se resolvió asignar una carpeta individual a cada expediente en la que se almacenen los archivos de cada uno de sus componentes, así:
+La configuración de una estructura de carpetas para el almacenamiento de los archivos, por su parte, tampoco ha estado exenta de discusiones. Se resolvió dividir los archivos en carpetas por año, así:
 
 ![estructura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/estructura-archivos.png)
 
