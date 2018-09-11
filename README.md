@@ -1,6 +1,6 @@
 En este repositorio se consignan datos respecto de la realización del proyecto académico colaborativo de investigación-creación "¿Cómo la inteligencia artificial puede mejorar la selección de tutelas en la Corte Constitucional?". A continuación se describen los aspectos principales de esta iniciativa.
 
-## Investigaores
+## Investigadores
 
 * María Fernanda Guerrero Mateus
 * Carlos Manuel Varón Castañeda. Correo electrónico: cm.varon@uniandes.edu.co
