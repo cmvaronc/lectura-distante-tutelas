@@ -227,6 +227,13 @@ Overall, a very simple, yet powerful freeware app for combining  multiple text f
 * El clasificador único deberá ser el número de radicación del juzgado.
 * Acordamos crear el documento para entregar el 11 de septiembre, en el que se describa de qué manera se está construyendo el corpus. Este tendrá 2 apartes: de un lado, el proceso que se ha seguido para conseguir la información; y de otro, la manera como esta será almacenada y sistematizada para efectos del análisis.
 
+## 11-09-2018
+
+### Sesión de asesoría, María José
+
+* Coincidimos en que no es posible trocear los archivos para hacer el modelo de tópicos por componentes.
+* El trabajo abre la posibilidad de pensar en conciliar las necesidades de la Corte con la realidad de la gestión documental en los juzgados. 
+
 
 
 
