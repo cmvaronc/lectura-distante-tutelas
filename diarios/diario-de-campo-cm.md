@@ -8,10 +8,9 @@ Encuentro algunas dificultades para nombrar los archivos. Hay 3 elementos import
 
 * Sección de la tutela
   * Hechos
-  * Provisiones
+  * Pretensiones
   * Consideraciones
   * Decisiones
-  * Pretensiones
 * Año de la tutela
 * Consecutivo
 * Clasificador único: n.° de radicación
