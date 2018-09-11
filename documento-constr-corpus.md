@@ -34,7 +34,7 @@ El algoritmo que se empleará para construir el modelo de tópicos (Mallet) exig
 
 Tomada la decisión de no separar los fallos por componentes, se estableció una nomenclatura para los archivos cuyo clasificador único ha de ser un número consecutivo asignado de forma automática al renombrar los archivos por volumen, así:
 
-![nomenclatura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/nomenclatura-archivos.png)
+![nomenclatura-archivos](https://github.com/cmvaronc/lectura-distante-tutelas/blob/master/nomenclatura-archivos-v1.png)
  
 La configuración de una estructura de carpetas para el almacenamiento de los archivos, por su parte, tampoco ha estado exenta de discusiones. Se resolvió dividir los archivos en carpetas por año, así:
 
