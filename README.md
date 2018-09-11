@@ -1,5 +1,10 @@
 En este repositorio se consignan datos respecto de la realización del proyecto académico colaborativo de investigación-creación "¿Cómo la inteligencia artificial puede mejorar la selección de tutelas en la Corte Constitucional?". A continuación se describen los aspectos principales de esta iniciativa.
 
+## Investigaores
+
+* María Fernanda Guerrero Mateus
+* Carlos Manuel Varón Castañeda. Correo electrónico: cm.varon@uniandes.edu.co
+
 ## Resumen
 Con este proyecto se pretende servirse de metodologías propias de la lingüística computacional aplicada y la inteligencia artificial para mejorar el proceso de selección de tutelas en la Corte Constitucional. Se propone, así, desarrollar un trabajo de investigación colaborativo e interdisciplinario que consta de cinco momentos principales: 1), análisis de la superestructura textual de un corpus de expedientes de tutelas provenientes de juzgados de primera instancia mediante lectura distante; 2), derivado de lo anterior, producción de un modelo de tópicos para el corpus estudiado y revisión de su comportamiento en términos de peso estadístico en el periodo xxxx-xxxx (el periodo está por definirse); 3), uso e incorporación de los resultados del análisis en el diseño de la maqueta de una aplicación informática que contribuya a agilizar el proceso de selección de las tutelas en la Corte; y 4), elaboración de un producto editorial colectivo (artículo de investigación) que dé cuenta de los resultados del proceso realizado.
 
