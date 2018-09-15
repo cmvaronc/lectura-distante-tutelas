@@ -254,5 +254,7 @@ Motor de bases de datos: sistema de gestión de las bases de datos.
 * Couch DB: base de datos tipo Key Store.
 * Neo 4J: base de datos tipo GraphQL. Basada en grafos.
 
-En esta sesión, aprender sobre SQL y hacer peticiones a una base de datos relacional mediante una interfaz PHP My Admin
+En esta sesión, se aprendió sobre SQL y hacer peticiones a una base de datos relacional mediante una interfaz PHP My Admin
 
+* MAMP: paquete de gestión de bases de datos. Apache (servidor Web http)
+* PHP: lenguaje de programación orientado a procesar hipertexto.
