@@ -235,6 +235,19 @@ Overall, a very simple, yet powerful freeware app for combining  multiple text f
 * El trabajo abre la posibilidad de pensar en conciliar las necesidades de la Corte con la realidad de la gestión documental en los juzgados. 
 * Siguiente sesión: 2 de octubre, 12:00 m.
 
+## 15-09-2018
 
+### Bases de datos
 
+* Base de datos: colección de elementos organizados de forma sistemática.
+* Registro: representación de un objeto real (p. ej. filas de una tabla)
+* Columnas: propiedades del objeto (campos)
+
+Tipo de dato: naturaleza de la información (numérica, lógica, de caracteres, etc.)
+
+Una base de datos puede contener una o más tablas.
+
+Motor de bases de datos: sistema de gestión de las bases de datos. 
+
+* Motores de bases realcionales: vinculan una tabla con otra y hace posible hacer búsquedas que incluyan datos de 2 tablas. P. ej. MySQL, PostgSQL
 
