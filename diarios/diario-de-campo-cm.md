@@ -249,5 +249,10 @@ Una base de datos puede contener una o más tablas.
 
 Motor de bases de datos: sistema de gestión de las bases de datos. 
 
-* Motores de bases realcionales: vinculan una tabla con otra y hace posible hacer búsquedas que incluyan datos de 2 tablas. P. ej. MySQL, PostgSQL
+* Motores de bases relacionales: vinculan una tabla con otra y hace posible hacer búsquedas que incluyan datos de 2 tablas. P. ej. MySQL, PostgSQL
+* Mongo DB:  base de datos no SQL cuyos documentos no están agrupados en tablas, sino en colecciones.
+* Couch DB: base de datos tipo Key Store.
+* Neo 4J: base de datos tipo GraphQL. Basada en grafos.
+
+En esta sesión, aprender sobre SQL y hacer peticiones a una base de datos relacional mediante una interfaz PHP My Admin
 
