@@ -258,3 +258,9 @@ En esta sesión, se aprendió sobre SQL y hacer peticiones a una base de datos r
 
 * MAMP: paquete de gestión de bases de datos. Apache (servidor Web http)
 * PHP: lenguaje de programación orientado a procesar hipertexto.
+
+## 19-09-2018
+
+### Nomenclatura
+
+Por facilidad, resolví usar File Renamer Basic para hacer el proceso de renombrado de todos los archivos, de acuerdo con la estructura definida en el documento de construcción del corpus. Los archivos quedaron nombrados de forma consecutiva, tomando como base la fecha de su creación. Ahora bien, es necesario entrar a definir si se quiere hacer un análisis por juzgado o solo por año. Incluso, la nomenclatura podría ampliarse para incluir no solo el nombre del juzgado sino la fecha de creación del archivo, de tal manera que sea posible analizar comportamiento mes a mes.
