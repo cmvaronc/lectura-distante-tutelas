@@ -263,4 +263,14 @@ En esta sesión, se aprendió sobre SQL y hacer peticiones a una base de datos r
 
 ### Nomenclatura
 
-Por facilidad, resolví usar File Renamer Basic para hacer el proceso de renombrado de todos los archivos, de acuerdo con la estructura definida en el documento de construcción del corpus. Los archivos quedaron nombrados de forma consecutiva, tomando como base la fecha de su creación. Ahora bien, es necesario entrar a definir si se quiere hacer un análisis por juzgado o solo por año. Incluso, la nomenclatura podría ampliarse para incluir no solo el nombre del juzgado sino la fecha de creación del archivo, de tal manera que sea posible analizar comportamiento mes a mes.
+Por facilidad, resolví usar File Renamer Basic en Windows para hacer el proceso de renombrado de todos los archivos, de acuerdo con la estructura definida en el documento de construcción del corpus. Los archivos quedaron nombrados de forma consecutiva, tomando como base la fecha de su creación. Ahora bien, es necesario entrar a definir si se quiere hacer un análisis por juzgado o solo por año. Incluso, la nomenclatura podría ampliarse para incluir no solo el nombre del juzgado sino la fecha de creación del archivo, de tal manera que sea posible analizar comportamiento mes a mes.
+
+## 20-09-2018
+
+### Dificultades encontradas en materia de nomenclatura
+
+Resultó muy difícil establecer con certeza el año de expedición de los fallos, puesto que un número batante elevado de archivos ostentaban nombres que no correspondían al año en que fueron compuestos. Por tal motivo, tomé la decisión de basar el proceso de renombrado en la fecha de creación que reporta el sistema operativo (a manera de metadato). Aun así, fue necesario revisar manualmente 29 archivos que, pese a tener una fecha de creación reciente, correspondían a fallos de años anteriores (p. ej. un archivo creado en marzo de 2018 contenía en realidad un fallo de 2013). Tampoco creo que valga la pena efectuar el análisis por sede judicial, puesto que varias se verían poco representadas frente a otras (en especial, frente a la gran cantidad de archivos recabados del Tribunal).
+
+### Sobre la conversión
+
+Es necesario probar textutil con expedientes que contengan gran cantidad de notas al pie, para revisar si la conversión es satisfactoria. De acuerdo con lo conversado con la profesora María José, la maestría comró una licencia de Abbyy Finereader para hacer OCR, por lo que aspiramos a emplear esa herramienta para trabajar con los archivos PDF y TIF. 
