@@ -122,7 +122,7 @@ Pendientes: continuar los análisis de prueba con las demás secciones (provisio
 
 ### Clase de diseño de proyectos
 
-Wiki del curso: hd.uniandes.edu.co/usuario/cmart/dproyecto
+Wiki del curso: [http://hd.uniandes.edu.co/usuario/cmart/dproyecto/index.php?title=P%C3%A1gina_principal](http://hd.uniandes.edu.co/usuario/cmart/dproyecto/index.php?title=P%C3%A1gina_principal)
 
 Repasar el documento de Drucker e inscribir el proyecto en una (o varias) de las categorías disponibles en la Wiki. 
 
