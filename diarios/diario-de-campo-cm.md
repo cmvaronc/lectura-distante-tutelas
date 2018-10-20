@@ -274,3 +274,36 @@ Resultó muy difícil establecer con certeza el año de expedición de los fallo
 ### Sobre la conversión
 
 Es necesario probar textutil con expedientes que contengan gran cantidad de notas al pie, para revisar si la conversión es satisfactoria. De acuerdo con lo conversado con la profesora María José, la maestría comró una licencia de Abbyy Finereader para hacer OCR, por lo que aspiramos a emplear esa herramienta para trabajar con los archivos PDF y TIF. 
+
+## 20-10-18
+
+### Reporte de prueba n.° 50
+
+* 900 archivos de texto plano (fallos de tutela)
+* Periodo analizado: 2010-2018
+* Configuración de Mallet: 15 tópicos, 20 *tokens* por tópico, uso de lista de *stopwords* personalizada (1646 *tokens*)
+
+#### Resultados generales y reflexiones
+
+0	0,08572	remate funcional irregularidad relevancia suspensión crédito engaño órbita familia cuantía vicios orgánico títulos inducido hipotecario contradicción margen capricho consumación determinante 
+1	0,04589	régimen crédito ahorro transición prima media edad sistema pensiones cuotas individual prestación social vivienda servicios pesos deudor pensional porvenir fna 
+2	0,22255	información policía transporte ejecutiva certificado tránsito dian empresa oficios departamento central movilidad constancia desapareció datos envío solicitante obra jefe certificación 
+3	0,1423	inmueble restitución arrendamiento propiedad remate contrato predio secuestro oposición inspección cautelar matrícula cautelares libelista cánones levantamiento posesión inmobiliaria crédito policía 
+4	0,08441	unidad víctimas reparación integral ayuda humanitaria vivienda social indemnización población familiar desplazada desplazamiento solución subsidio información vulnerabilidad mínimo forzado víctima 
+5	0,06742	registraduría cédula ciudadanía disciplinaria electoral públicas provisional ciudadanos voto formal identificación identidad expresión gravedad situaciones veracidad sanciones disciplinario libelo participación 
+6	0,06318	superintendencia sociedades comercio industria asociados contrato financiera posesión empresa funciones colpatria suspensión captación actividades cuentas compañía insolvencia instituida investigación elite 
+7	0,04585	desacato unidad integral reparación sanción consulta incumplimiento responsabilidad sanciones responsable victimas multa incidental arresto directora víctimas salarios mínimos mandato encargado 
+8	0,04274	penal fiscalía nación información libertad penas seguridad aseguramiento investigación datos control fiscal funciones víctima imposición denuncia captura delito procuraduría centro 
+9	0,09589	pensión social laboral reconocimiento colpensiones pensional mínimo seguridad vital invalidez iss pensiones sociales vejez incapacidades cajanal instituto prestaciones calificación vida 
+10	0,53051	censura precedencia libelo control continuación revocatoria argumento cobro sujetos comunicaciones previo duda independencia efectivo reclamo presupuesto controversias realidad etapa totalidad 
+11	0,05701	salud eps servicio médico servicios tratamiento social vida paciente tratante prestación pos fosyga integral médicos sanidad seguridad medicamentos enfermedad sistema 
+12	0,05393	contrato vehículo dictamen promesa conciliación compraventa incumplimiento escritura familia negocio expropiación crédito disenso automotor laboral vendedor comprador empresa placas perito 
+13	0,08055	paz resguardo constancias jurisdiccional popular iniciación viabilidad identificación riesgo congreso apoyo estrado refrendación camino urgentes auxiliares concebida desarrollado miembros ocurrencia 
+14	0,04625	servicio educación militar convocatoria ejército profesional comisión concurso institución universidad cnsc policía programa experiencia icetex hijo laboral retiro fuerzas militares 
+
+* Hay tópicos cuya aparición se ha mantenido estable desde la primera prueba (4 y 11, especialmente), mientras que otros han cambiado de forma ostensible conforme se ha enriquecido la lista de *stopwords*. Será necesario hacer una revisión de esta última nuevamente cuando se disponga del corpus definitivo. 
+* Es preciso excluir una cantidad considerable de inflexiones verbales, puesto que sesgan el modelo (no tiene vaor semántico)
+* No se tomó en cuenta el hecho de que los meses de cada año deben estar representados de forma adecuada (p. ej. 10 archivos por mes).
+* Los gráficos de comportamiento no resultan muy claros, dado el gran volumen de archivos. Es preciso considerar otras opciones de visualización.
+
+
