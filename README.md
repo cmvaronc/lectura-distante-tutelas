@@ -1,4 +1,4 @@
-En este repositorio se consignan datos respecto de la realización del proyecto académico colaborativo de investigación-creación "¿Cómo la inteligencia artificial puede mejorar la selección de tutelas en la Corte Constitucional?". A continuación se describen los aspectos principales de esta iniciativa.
+En este repositorio se consignan datos respecto de la realización del proyecto de investigación-creación "¿Cómo la inteligencia artificial puede mejorar la selección de tutelas en la Corte Constitucional?". A continuación se describen los aspectos principales de esta iniciativa.
 
 ## Investigadores
 
