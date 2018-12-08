@@ -1,10 +1,10 @@
-#¿Cómo la inteligencia artificial puede mejorar el proceso de selección de tutelas en la Corte Constitucional? (informe de investigación preliminar)
+# ¿Cómo la inteligencia artificial puede mejorar el proceso de selección de tutelas en la Corte Constitucional? (informe de investigación preliminar)
 
 *Estudiantes: María Fernanda Guerrero y Carlos Manuel Varón*
 
 *Fecha: 11 de diciembre de 2018*
 
-##Introducción
+## Introducción
 
 La tutela es el mecanismo procesal más utilizado por los ciudadanos para defender sus derechos fundamentales. Su reconocida popularidad hace que la selección de sentencias de tutela sea, para la Corte Constitucional, su mayor desafío, en razón de los más de 42.000 expedientes mensuales que recibe de todo el país para su eventual revisión. Así entonces, está claro que, de no atenderse adecuadamente esta situación, la complejidad que reviste la gestión de tutelas en materia de procesamiento de información podrían llevar este mecanismo del éxito al mayor de los fracasos.
 
@@ -22,7 +22,7 @@ Como se dijo antes, la naturaleza colaborativa del trabajo de investigación que
 
 ### Herramientas
 
-####Modelado de tópicos
+#### Modelado de tópicos
 
 Esta técnica de lectura distante (cuyos fundamentos se encuentran en la lingüística computacional aplicada) tiene por objetivo extraer, de corpus textuales de gran envergadura, unidades semánticas -tópicos- cuyos elementos constitutivos -*tokens*- tienen una alta probabilidad de estar relacionados entre sí (Templeton, s. f.). En términos ideales, cada tópico aludiría a una temática específica y, con esto, se asumiría que cada texto del corpus tiene origen en una mezcla de dichas unidades semánticas. 
 
@@ -80,7 +80,7 @@ DIAGRAMAS DE FLUJO
 
 He aquí el punte entre los saberes lingüístico y jurisprudencial. Una vez obtenido el modelo de tópicos que se presentó anteriormente, y tvistas otras experiencias académicas al respecto, surgió la idea de reemplazar los números por etiquetas. Derivado de ello, se planteó que estas pudiesen equivaler a derechos, en tanto razón de ser de las acciones de tutela. Con esto, se compuso un campo semático referido a derechos, con base en la información disponible al respecto en el portal web de la Corte Constitucional. (VA LA LISTA DE DERECHOS)
 
-##Discusión
+## Discusión
 
 La investigación, hasta ahora realizada, arroja las siguientes conclusiones preliminares:
 
