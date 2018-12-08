@@ -80,7 +80,7 @@ DIAGRAMAS DE FLUJO
 
 ### Primer intento de categorización del modelo de tópicos: clasificación en función de derechos
 
-He aquí el punte entre los saberes lingüístico y jurisprudencial. Una vez obtenido el modelo de tópicos que se presentó anteriormente, y tvistas otras experiencias académicas al respecto, surgió la idea de reemplazar los números por etiquetas. Derivado de ello, se planteó que estas pudiesen equivaler a derechos, en tanto razón de ser de las acciones de tutela. Con esto, se compuso un campo semático referido a derechos, con base en la información disponible al respecto en el portal web de la Corte Constitucional. (VA LA LISTA DE DERECHOS)
+He aquí el puente entre los saberes lingüístico y jurisprudencial. Una vez obtenido el modelo de tópicos que se presentó anteriormente, y tvistas otras experiencias académicas al respecto, surgió la idea de reemplazar los números por etiquetas. Derivado de ello, se planteó que estas pudiesen equivaler a derechos, en tanto razón de ser de las acciones de tutela. Con esto, se compuso un campo semático referido a derechos, con base en la información disponible al respecto en el portal web de la Corte Constitucional. (VA LA LISTA DE DERECHOS)
 
 ## Discusión
 
