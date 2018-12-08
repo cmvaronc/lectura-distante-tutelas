@@ -50,6 +50,8 @@ Una descripción más detallada de la metodología empleada para la construcció
 
 ### Primer esbozo de un modelo de tópicos para fallos de tutela
 
+Encontramos 2 grandes categorías de tópicos: 1), procesal (que tiene que ver con el proceso constitucional); 2), sustancial (derechos y deberes fundamentales, instituciones, y principios y valores constitucionales).
+
 Hasta el momento, se han realizado 52 pruebas, todas bajo los mismos parámetros básicos, a saber: 
 
 Archivos analizados: 900
@@ -60,7 +62,7 @@ Número de palabras vacías (*stopwords*): 1360[^1]
 
 Tópicos que componen el modelo: 20
 
-####Modelo de tópicos
+#### Modelo de tópicos
 
 TABLA DEL MODELO
 
