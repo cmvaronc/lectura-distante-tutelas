@@ -340,6 +340,7 @@ El proceso de análisis en los dos frentes de trabajo permite realizar algunas r
 ## Notas
 
 [^1]: Para la construcción de la lista de palabras vacías se partió del listado de base proporcionado por [Ranks.nl](https://www.ranks.nl), de uso recomendado por los autores de Mallet. Se incluyeron, además, nombres de personas con base en las listas de nombres más comunes presentes en los registros civiles de nonatos, publicadas por la Registraduría Nacional del Estado Civil para los años 2014, 2015, 2016 y 2017. Asimismo, no se tomaron en cuenta los datos de personas y sujetos procesales. Conforme se realizaron sucesivas iteraciones de las pruebas para obtener el modelo de tópicos, la lista se enriqueció con nuevos términos (en su mayoría, inflexiones verbales y adverbios) hasta alcanzar la envergadura que ostenta actualmente.
+
 [^2]: Sumados a los diagramas de flujo, se compusieron mapas mentales como estrategia para identificar de mejor manera a todos los actores del proceso. Estos se encuentran disponibles para ser consultados en [https://bit.ly/2EqbxFA](https://bit.ly/2EqbxFA)  
 
 [^3]: Es importante tener en cuenta que las reseñas no están incluidas en las tablas de retención documental del proceso de revisión y selección de tutelas dado que, en términos formales, los estudiantes no son considerados actores directos en dicho proceso por la Corte; su labor se toma como secundaria y de asistencia, si bien la realidad deja en evidencia lo contrario. 
