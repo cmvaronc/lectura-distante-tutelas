@@ -19,3 +19,7 @@ El paso a seguir es mirar los archivos de los fallos para saber si son suficient
 ### Presentación de avance en la clase de Diseño de proyectos
 
 Enlace a la presentación: [https://uniandes-my.sharepoint.com/:p:/g/personal/cm_varon_uniandes_edu_co/EWFZA_j-D8lDpjnpwYttWWIBQDMGV0HqW5QH2C2VU6YdJQ?e=gmqLIg](https://uniandes-my.sharepoint.com/:p:/g/personal/cm_varon_uniandes_edu_co/EWFZA_j-D8lDpjnpwYttWWIBQDMGV0HqW5QH2C2VU6YdJQ?e=gmqLIg)
+
+## 13-12-2018
+
+Presentación de Diseño de Proyectos
