@@ -319,3 +319,11 @@ Es necesario probar textutil con expedientes que contengan gran cantidad de nota
 * Es preciso excluir una cantidad considerable de inflexiones verbales, puesto que sesgan el modelo (no tiene vaor semántico)
 * No se tomó en cuenta el hecho de que los meses de cada año deben estar representados de forma adecuada (p. ej. 10 archivos por mes).
 * Los gráficos de comportamiento no resultan muy claros, dado el gran volumen de archivos. Es preciso considerar otras opciones de visualización.
+
+## 31-03-19
+
+### Sistematización y realización de pruebas con corpus definitivo
+
+2100 archivos, 21 años representados.
+Lista de _stopwords:_ es-mafe.txt
+N.° de tópicos: 30. Noté que de esos treinta, 5 tienen mucha más participación (procesales), con lo cual quedarían 25 por etiquetar.
