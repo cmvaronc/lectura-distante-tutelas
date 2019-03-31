@@ -35,7 +35,7 @@ Podría ser en ese orden, p. ej.: "hechos-0001-2010.txt"
   bin\mallet import-dir --input mydata --output prueba2.mallet --keep-sequence --remove-stopwords --stoplist-file stoplists\es.txt
   ```
 
-* C[odigo para sacar primera lista de tópicos: 
+* Código para sacar primera lista de tópicos: 
 
   ```
   bin\mallet train-topics  --input NOMBRE DEL ARCHIVO.mallet
